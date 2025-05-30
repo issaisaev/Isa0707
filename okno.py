@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-
+#добвил новые изменения
 class TextEditor:
     def __init__(self, root):
         self.root = root
